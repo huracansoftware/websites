@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 18" width="20" height="18">
+	<title>insta</title>
+	<defs>
+		<image  width="18" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAAAXNSR0IB2cksfwAAAMxQTFRFAAAA8sZm8sdp88ls88pw88x09M149M999NGC9dOI9dWN9teT9tmZ99yg996m8sZl8sdn8shq88lu88tx88x29M569NB/9dKE9dSK9taQ9tiV99qc992i+N+o9tmY99ue992k+OCr9dWO9teU9tqa+N6n88ty9M579dKF9dSL99uc992j88pv88t09dOH99uf88lt88px88x19M9/99qb88139NCA9taR9tmX9M1588tz9M139dKG9dSM8sdm8shp9dGD9dOJ8sdo8shrn4ltAAAAAER0Uk5TAP////////////////////////////////////////////////////////////////////////////////////////+yK0l2AAAAtklEQVR4nFWQWRuBYBSEJ6JUfKSo7FtZQrbssvz//+SkUHM1z3sxc84A4DJZPpcXxIIkK8USSIyVK2pV02t1w7QazVZIGMNP7U63hyQp9AfD4ggxUW3NwXhiYjqLEDW4c2pYSFCWEaIGb7XWN2St7QfFeTvHB/aHJModBUCSk8jWdMAwk8g9nYHLNY4n3QKPJ3t//BF7vlSy/vh7KiHuYwQx9RApPC79NjU4cU4kLqDlgBSj5YA37xUR9Mh6EgUAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer" href="#img1" x="1" y="0"/>
+</svg>
